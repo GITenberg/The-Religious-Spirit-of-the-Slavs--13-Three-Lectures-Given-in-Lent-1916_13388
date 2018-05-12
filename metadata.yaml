@@ -1,0 +1,36 @@
+_repo: The-Religious-Spirit-of-the-Slavs--13-Three-Lectures-Given-in-Lent-1916_13388
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velimirović, Nikolaj
+    aliases:
+    - Велимировић, Николај
+    - Velimirovic, Nikolaj
+    - Velimirović, Nikolai
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '5032'
+    url: http://www.gutenberg.org/2009/agents/5032
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Velimirovic
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Sermons on subjects suggested by the war. Third series.
+subjects:
+- !lcsh 'Orthodox Eastern Church'
+- !lcc 'BR'
+- !lcsh 'Slavs -- Religion'
+tableOfContents: Slav orthodoxy -- Slav revolutionary Catholicism -- The religious
+  spirit of the Slavs.
+title: "The Religious Spirit of the Slavs\r\nThree Lectures Given in Lent, 1916"
+url: http://www.gutenberg.org/ebooks/13388
