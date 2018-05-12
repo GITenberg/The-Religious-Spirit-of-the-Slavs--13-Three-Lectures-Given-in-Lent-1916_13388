@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5032
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Velimirovic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13388#The-Religious-Spirit-of-the-Slavs--13-Three-Lectures-Given-in-Lent-1916
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-09-07'
 gutenberg_type: Text
